@@ -1,9 +1,5 @@
 # 👋 ¡Hola! Soy Vladimir Carpio     
 
-📍 Ubicación: Madrid
-📞 Teléfono: 614 XXX XXXX
-✉️ Email: vladimir.carpio@outlook.com
-
 🎓 Educación
 Universidad Alfonso X El Sabio
 📅 Septiembre 2023 - Actualidad

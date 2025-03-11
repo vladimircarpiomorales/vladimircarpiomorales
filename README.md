@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Vladimir Carpio     
+﻿# 👋 ¡Hola! Soy Vladimir Carpio     
 
 📍 Ubicación: Madrid
 📞 Teléfono: 614 XXX XXXX
@@ -41,8 +41,8 @@ Queens Park Library
 📅 Marzo 2023 – Julio 2023
 Orientación y asesoramiento a usuarios en el uso y funcionamiento de sistemas y aplicaciones.
 
-
-## 🌎 Idiomas  
+![Vladimir](\img\vladimir.jpg)## 
+🌎 Idiomas  
 - Español (nativo)  
 - Inglés (intermedio-avanzado)  
 

@@ -37,7 +37,7 @@ Queens Park Library
 📅 Marzo 2023 – Julio 2023
 Orientación y asesoramiento a usuarios en el uso y funcionamiento de sistemas y aplicaciones.
 
-![Vladimir](\img\vladimir.jpg)## 
+![Vladimir](/img/vladimir.jpg)## 
 🌎 Idiomas  
 - Español (nativo)  
 - Inglés (intermedio-avanzado)  

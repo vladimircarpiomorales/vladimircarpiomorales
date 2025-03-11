@@ -29,8 +29,6 @@ CCNA: Enterprise Networking, Security, and Automation
 
 CCNA: Switching, Routing, and Wireless Essentials
 
-
-
 🤝 Voluntariado
 Queens Park Library
 📌 Asistente de Biblioteca
@@ -38,6 +36,7 @@ Queens Park Library
 Orientación y asesoramiento a usuarios en el uso y funcionamiento de sistemas y aplicaciones.
 
 ![Vladimir](/img/vladimir.jpg)## 
+
 🌎 Idiomas  
 - Español (nativo)  
 - Inglés (intermedio-avanzado)  

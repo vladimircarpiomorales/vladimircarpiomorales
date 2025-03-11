@@ -11,17 +11,28 @@ Universidad Alfonso X El Sabio
 
 📜 Certificaciones
 Microsoft Certified: Azure Fundamentals
+
 Microsoft Certified: Azure AI Fundamentals
+
 RIPE NCC: IPv6 Security Expert
+
 RIPE NCC: IPv6 Fundamentals – Analyst
+
 Aruba Certified Edge Professional
+
 Aruba Certified ClearPass Professional (ACCP)
+
 Aruba Certified Switching Professional (ACSP)
+
 Aruba Certified Mobility Professional (ACMP)
+
 📚 Cursos Adicionales
 CCNA: Introduction to Networks
+
 CCNA: Enterprise Networking, Security, and Automation
+
 CCNA: Switching, Routing, and Wireless Essentials
+
 
 
 🤝 Voluntariado
